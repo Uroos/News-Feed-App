@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NewsAppOne</string>
+    <string name="network_error">No network found.</string>
+    <string name="no_news_error">No news to display.</string>
+    <!--Strings for the Search Preference-->
+    <string name="settings_search_default">politics</string>
+    <string name="settings_search_key" translatable="false">search</string>
+    <string name="settings_search_label">Search</string>
+
+    <!-- Strings for the Sections Preference-->
+    <string name="settings_sections_default">@string/settings_sections_politics_values</string>
+    <string name="settings_sections_key" translatable="false">sections</string>
+    <string name="settings_sections_label">Sections</string>
+
+    <!--Labels for Sections fashion-->
+    <string name="settings_sections_fashion_labels">Fashion</string>
+    <string name="settings_sections_fashion_values" translatable="false">fashion</string>
+    <!--Labels for Sections technology-->
+    <string name="settings_sections_technology_labels">Technology</string>
+    <string name="settings_sections_technology_values" translatable="false">technology</string>
+    <!--Labels for Sections business-->
+    <string name="settings_sections_business_labels">Business</string>
+    <string name="settings_sections_business_values" translatable="false">business</string>
+    <!--Labels for Sections politics-->
+    <string name="settings_sections_politics_labels">Politics</string>
+    <string name="settings_sections_politics_values" translatable="false">politics</string>
+    <!--Labels for Sections sports-->
+    <string name="settings_sections_sport_labels">Sports</string>
+    <string name="settings_sections_sport_values" translatable="false">sport</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_sections_labels">
+        <item>@string/settings_sections_fashion_labels</item>
+        <item>@string/settings_sections_business_labels</item>
+        <item>@string/settings_sections_politics_labels</item>
+        <item>@string/settings_sections_sport_labels</item>
+        <item>@string/settings_sections_technology_labels</item>
+    </string-array>
+    <string-array name="settings_sections_values">
+        <item>@string/settings_sections_fashion_values</item>
+        <item>@string/settings_sections_business_values</item>
+        <item>@string/settings_sections_politics_values</item>
+        <item>@string/settings_sections_sport_values</item>
+        <item>@string/settings_sections_technology_values</item>
+    </string-array>
+</resources>
